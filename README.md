@@ -42,7 +42,7 @@ This project aims to recreate some of the main features present in the classic R
         // Removes an item from the item box.
 
         Leon.listItemBox()
-        // Same as for listInventory() but for the item box
+        // Work as same as listInventory() but for the item box
 
         Leon.combineItems("item to be combined", "item you're combining with"); 
         // Calls different methods depending on the items you're combining.
