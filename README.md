@@ -13,7 +13,7 @@ This project aims to recreate some of the main features present in the classic R
 1. Improve the use of the ternary operator.
 2. Implement Records, HashSet, and Streams.
 3. Add a method to reveal the contents of Film-type Files.
-4. Add a method for shooting (or swinging) a weapon. (I know it's not strictly an inventory feature, but it will increase the project's complexity as it's directly related to reload and 5. upgrade methods.)
+4. Add a method for shooting (or swinging) a weapon. (I know it's not strictly an inventory feature, but it will increase the project's complexity as it's directly related to both reload and upgrade methods.)
 6. Create a more organized way to list files.
 7. Develop a frontend.
 8. Integrate with a database.
