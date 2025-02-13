@@ -1,6 +1,6 @@
 # OBJECT-ORIENTED PROGRAMMING INVENTORY SYSTEM
 
-This project aims to recreate some of the main features present in the classic Resident Evil 2's inventory/item system. It allows you to create items, list them in your inventory, update their characteristics, or merge two items to generate a new one with special attributes. Additionally, you can move items between your inventory and the item box.
+This project aims to recreate some of the main features present in the classic Resident Evil 2's inventory/items system. It allows you to create items, list them in your inventory, update their characteristics, or merge two items to generate a new one with special attributes. Additionally, you can move items between your inventory and the item box.
 
 ##
 
