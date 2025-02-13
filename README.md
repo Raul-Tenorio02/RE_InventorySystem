@@ -33,13 +33,16 @@ This project aims to recreate some of the main features present in the classic R
         // Remember to check constructors in each class to create specific items correctly.
 
         Leon.listInventory(); 
-        // Lists the items created in the inventory.
+        // Lists items created in the inventory.
 
         Leon.itemBoxIn("item to be stored"); 
         // Stores an item in the item box.
 
         Leon.itemBoxOut("item to be removed from storage"); 
         // Removes an item from the item box.
+
+        Leon.listItemBox()
+        // Same as for listInventory() but for the item box
 
         Leon.combineItems("item to be combined", "item you're combining with"); 
         // Calls different methods depending on the items you're combining.
