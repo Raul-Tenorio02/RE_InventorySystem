@@ -2,15 +2,11 @@
 
 This project aims to recreate some of the main features present in the classic Resident Evil 2's inventory/items system. It allows you to create items, list them in your inventory, update their characteristics, or merge two items to generate a new one with special attributes. Additionally, you can move items between your inventory and the item box.
 
-##
-
 # Current Features
 
 1. ArrayList-based data structure.
 2. Usage of generics, enums, interfaces, abstract classes, final classes, and both overriding and overloading.
 3. Methods for combining items, such as mixing herbs, reloading weapons, or upgrading them.
-
-##
 
 # Future implementations
 
