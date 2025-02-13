@@ -17,7 +17,7 @@ This project aims to recreate some of the main features present in the classic R
 6. Create a more organized way to list files.
 7. Develop a frontend.
 8. Integrate with a database.
-9. Create a web version using RESTful API concepts with Spring.
+9. Merge it all to create a web version using RESTful API concepts with Spring and JPA/Hibernate.
 
 # Instructions
 
