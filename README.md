@@ -14,15 +14,16 @@ Feel free to fork this project :)
 
 # You should also expect: 
 
-1. Lots of bugs and/or innapropriate methods behaviors, specially when reloading a grenade launcher or trying to reload a weapon previously set up as SPECIAL.
-2. Variables, getters, setters, functions and/or methods that simply exists, but are used for absolutely nothing. I'm still working on it, so...
+1. Many bugs and/or inappropriate method behaviors, especially when reloading a grenade launcher or trying to reload a weapon previously configured as SPECIAL.
+2. Variables, getters, setters, functions and/or methods that simply exist but are used for absolutely nothing. I'm still working on it, so...
 
 # Future implementations
 
 1. Improve the use of the ternary operator.
-2. Implement Records, HashSet, and Streams.
-3. Add a method to reveal the contents of Film-type Files.
-4. Add a method for shooting (or swinging) a weapon. (I know it's not strictly an inventory feature, but it will increase the project's complexity as it's directly related to both reload and upgrade methods.)
+2. Fix bugs and unwanted behavior of classes and methods
+3. Implement Records, Hash, and Streams.
+4. Add a method to reveal the contents of Film-type Files.
+5. Add a method for shooting (or swinging) a weapon. (I know it's not strictly an inventory feature, but it will increase the project's complexity as it's directly related to both reload and upgrade methods.)
 6. Create a more organized way to list files.
 7. Develop a frontend.
 8. Integrate with a database.
