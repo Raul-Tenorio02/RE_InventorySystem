@@ -42,13 +42,13 @@ Feel free to Fork this project :)
         Leon.listInventory(); 
         // Lists items created in the inventory.
 
-        Leon.itemBoxIn("item to be stored"); 
+        Claire.itemBoxIn("item to be stored"); 
         // Stores an item in the item box.
 
-        Leon.itemBoxOut("item to be removed from storage"); 
+        Claire.itemBoxOut("item to be removed from storage"); 
         // Removes an item from the item box.
 
-        Leon.listItemBox()
+        Claire.listItemBox()
         // Works the same as listInventory() but for the item box
 
         Leon.combineItems("item to be combined", "item you're combining with"); 
